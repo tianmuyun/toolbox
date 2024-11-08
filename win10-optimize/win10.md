@@ -20,8 +20,6 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings" /v Fli
 
 ## 隐藏 Windows 此电脑下的特定文件夹
 
-注：以管理员身份运行
-
 通过注册表操作，添加或删除这些文件夹的项，来隐藏或显示这些特定文件夹。
 
 ```
